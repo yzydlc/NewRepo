@@ -1,2 +1,3 @@
 add some line1
-delete some line2
+delete some line2 
+the new change
