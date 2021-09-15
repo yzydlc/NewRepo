@@ -1,0 +1,2 @@
+add some line1
+delete some line2
